@@ -1,3 +1,4 @@
 # Ignored files
 info.txt
-dir1\ignored_1.txt
+dir1/
+dir2/
